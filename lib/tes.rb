@@ -1,5 +1,5 @@
 require "tes/version"
-require "oreore/cli"
+require "tes/cli"
 
 module Tes
   # Your code goes here...
